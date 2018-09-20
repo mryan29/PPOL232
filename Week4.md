@@ -41,3 +41,8 @@ elements of democracy
 - participation
 - security
 - stakeholders
+
+# Sep 20
+
+Multilateralism
+....
